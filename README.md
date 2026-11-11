@@ -12,7 +12,7 @@ La app comprueba automaticamente `Daro-IR/todus-desktop` al iniciar y desde **Aj
 
 ## Estado
 
-- Version actual: **1.0.3**
+- Version actual: **1.0.4**
 - Plataforma: Windows x64 (instalador NSIS)
 - Icono: toDusFox
 
